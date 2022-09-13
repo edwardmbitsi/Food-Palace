@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");  
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap');
  * {  
   padding: 0;  
   margin: 0;  
@@ -20,7 +21,8 @@
   transition: all 0.5s ease-in-out;  
  }  
 .logo h1 {  
-  cursor: pointer;  
+  cursor: pointer; 
+  font-family: 'Playfair Display', serif;
  }  
  .nav__links {  
   display: flex;  
