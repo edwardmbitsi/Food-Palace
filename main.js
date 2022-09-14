@@ -153,8 +153,8 @@
      price:3,  
      cateogary:"FASTFOOD",  
    },{id:23,  
-     name:"MANCHURIAN BALLS",  
-     img:"https://i.ytimg.com/vi/xkMbJCtaaqA/maxresdefault.jpg",  
+     name:"SANDWICH",  
+     img:"https://www.jocooks.com/wp-content/uploads/2020/10/club-sandwich-1-9.jpg",  
      price:5,  
      cateogary:"FASTFOOD",  
    }  
